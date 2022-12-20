@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #ce5b5b;
+}
+
+.container{
+    padding: 20px;
+    text-align: center;
+    color: black;
+    /* background-color: aquamarine; */
+    /* background-color: #c23939; */
+}
+
+.image{
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0px;
+    display: flex;
+    background-color: #ce5b5b;
+    height: 100%;
+}
